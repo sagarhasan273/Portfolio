@@ -1,7 +1,10 @@
+body {
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d)fixed;
+}
+
 .main_class {
     margin: 10% auto;
     width: 900px;
-    border: 1px solid black;
     display: flex;
     justify-content: space-between;
 }
@@ -78,30 +81,35 @@ li {
 }
 
 .fa:hover {
-    opacity: 0.7;
+    opacity: 0.8;
 }
 
 .fa-facebook {
-    background: #3B5998;
+    background: #325ebb;
     color: white;
+    box-shadow: 0px 5px 30px 0px rgb(2, 59, 126);
 }
 
 .fa-twitter {
-    background: #55ACEE;
+    background: #33a4fa;
     color: white;
+    box-shadow: 0px 0px 30px 0px rgb(7 162 239);
 }
 
 .fa-linkedin {
     background: #007bb5;
     color: white;
+    box-shadow: 0px 5px 30px 0px rgb(2, 161, 253);
 }
 
 .fa-youtube {
     background: #bb0000;
     color: white;
+    box-shadow: 0px 5px 30px 0px rgb(250, 0, 42);
 }
 
 .fa-instagram {
-    background: #125688;
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
     color: white;
+    box-shadow: 0px 5px 30px 0px rgb(112, 0, 250);
 }
