@@ -149,8 +149,8 @@ function App() {
               >
                 <h3>MERN Stack Developer &amp; Problem Solver (1500+).</h3>
                 <p className="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  I bring over 1.5 years of hands-on experience in developing
+                  robust and scalable applications using React.js and Node.js.
                 </p>
                 <div className="row">
                   <div className="col-lg-6">
@@ -196,13 +196,13 @@ function App() {
                   </div>
                 </div>
                 <p>
-                  Officiis eligendi itaque labore et dolorum mollitia officiis
-                  optio vero. Quisquam sunt adipisci omnis et ut. Nulla
-                  accusantium dolor incidunt officia tempore. Et eius omnis.
-                  Cupiditate ut dicta maxime officiis quidem quia. Sed et
-                  consectetur qui quia repellendus itaque neque. Aliquid amet
-                  quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis
-                  culpa magni laudantium dolores.
+                  My expertise spans across front-end development with React,
+                  where I've crafted engaging user interfaces, and back-end
+                  development with Node.js, ensuring seamless server-side
+                  operations. Through my journey, I've tackled complex
+                  challenges, optimized performance, and stayed abreast of the
+                  latest trends in these technologies, delivering solutions that
+                  marry functionality with a great user experience.
                 </p>
               </div>
             </div>
@@ -214,10 +214,18 @@ function App() {
             <div className="section-title">
               <h2>Facts</h2>
               <p>
-                Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-                ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-                quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-                Quia fugiat sit in iste officiis commodi quidem hic quas.
+                With a dedicated journey of 1.5 years in the realms of React.js
+                and Node.js, I've become adept at weaving intricate web
+                solutions. I pride myself on not just coding, but crafting
+                engaging user experiences through React's dynamic interfaces. On
+                the server side, my proficiency with Node.js has enabled me to
+                architect robust back-end systems, ensuring the seamless
+                operation of applications. Beyond the code, I bring a passion
+                for continuous learning, a knack for problem-solving, and a
+                commitment to staying at the forefront of technological
+                advancements. I am excited about the possibilities that lie
+                ahead and the opportunity to contribute my skills to innovative
+                projects.
               </p>
             </div>
 
@@ -230,12 +238,15 @@ function App() {
                   <i className="bi bi-emoji-smile"></i>
                   <span
                     data-purecounter-start="0"
-                    data-purecounter-end="232"
+                    data-purecounter-end="11"
                     data-purecounter-duration="1"
                     className="purecounter"
-                  ></span>
+                  >
+                    11
+                  </span>
                   <p>
-                    <strong>Happy Clients</strong> consequuntur quae
+                    <strong>Happy Clients</strong> ensuring delighted clients
+                    with every project completion
                   </p>
                 </div>
               </div>
@@ -249,12 +260,15 @@ function App() {
                   <i className="bi bi-journal-richtext"></i>
                   <span
                     data-purecounter-start="0"
-                    data-purecounter-end="521"
+                    data-purecounter-end="21"
                     data-purecounter-duration="1"
                     className="purecounter"
-                  ></span>
+                  >
+                    21
+                  </span>
                   <p>
-                    <strong>Projects</strong> adipisci atque cum quia aut
+                    <strong>Projects</strong> each a testament to my passion for
+                    innovation and commitment to excellence
                   </p>
                 </div>
               </div>
@@ -268,12 +282,15 @@ function App() {
                   <i className="bi bi-headset"></i>
                   <span
                     data-purecounter-start="0"
-                    data-purecounter-end="1453"
+                    data-purecounter-end="120"
                     data-purecounter-duration="1"
                     className="purecounter"
-                  ></span>
+                  >
+                    120+
+                  </span>
                   <p>
-                    <strong>Hours Of Support</strong> aut commodi quaerat
+                    <strong>Hours Of Support</strong> ensuring seamless
+                    assistance and reliability whenever it's needed
                   </p>
                 </div>
               </div>
@@ -290,9 +307,12 @@ function App() {
                     data-purecounter-end="32"
                     data-purecounter-duration="1"
                     className="purecounter"
-                  ></span>
+                  >
+                    1
+                  </span>
                   <p>
-                    <strong>Hard Workers</strong> rerum asperiores dolor
+                    <strong>Hard Worker</strong> consistently going the extra
+                    mile to achieve excellence in every task
                   </p>
                 </div>
               </div>
@@ -305,10 +325,18 @@ function App() {
             <div className="section-title">
               <h2>Skills</h2>
               <p>
-                Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-                ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-                quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-                Quia fugiat sit in iste officiis commodi quidem hic quas.
+                Empowered with a versatile skill set honed over few years, I
+                command expertise in React.js and Node.js, seamlessly blending
+                front-end finesse with back-end robustness. Proficient in HTML,
+                CSS, and JavaScript, I craft dynamic and engaging user
+                interfaces. On the server side, my mastery of Node.js ensures
+                scalable and efficient backend operations.With a strong
+                analytical mind, I excel in coding, effortlessly navigating
+                through challenges. I possess proficiency in various programming
+                languages and tools, ensuring smooth development processes. My
+                problem-solving skills enable me to tackle complex issues
+                effectively, while my adaptability allows me to thrive in
+                dynamic environments. I am eager to leverage my skills.
               </p>
             </div>
 
@@ -348,14 +376,44 @@ function App() {
 
                 <div className="progress">
                   <span className="skill">
-                    JavaScript <i className="val">75%</i>
+                    JavaScript <i className="val">70%</i>
                   </span>
                   <div className="progress-bar-wrap">
                     <div
                       className="progress-bar"
-                      style={{ width: "75%" }}
+                      style={{ width: "70%" }}
                       role="progressbar"
-                      aria-valuenow="75"
+                      aria-valuenow="70"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                    ></div>
+                  </div>
+                </div>
+                <div className="progress">
+                  <span className="skill">
+                    React.JS <i className="val">80%</i>
+                  </span>
+                  <div className="progress-bar-wrap">
+                    <div
+                      className="progress-bar"
+                      style={{ width: "80%" }}
+                      role="progressbar"
+                      aria-valuenow="80"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                    ></div>
+                  </div>
+                </div>
+                <div className="progress">
+                  <span className="skill">
+                    Node.JS <i className="val">70%</i>
+                  </span>
+                  <div className="progress-bar-wrap">
+                    <div
+                      className="progress-bar"
+                      style={{ width: "70%" }}
+                      role="progressbar"
+                      aria-valuenow="70"
                       aria-valuemin="0"
                       aria-valuemax="100"
                     ></div>
@@ -366,7 +424,52 @@ function App() {
               <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                 <div className="progress">
                   <span className="skill">
-                    PHP <i className="val">80%</i>
+                    MongoDB <i className="val">70%</i>
+                  </span>
+                  <div className="progress-bar-wrap">
+                    <div
+                      className="progress-bar"
+                      style={{ width: "70%" }}
+                      role="progressbar"
+                      aria-valuenow="70"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                    ></div>
+                  </div>
+                </div>
+                <div className="progress">
+                  <span className="skill">
+                    SQL <i className="val">85%</i>
+                  </span>
+                  <div className="progress-bar-wrap">
+                    <div
+                      className="progress-bar"
+                      style={{ width: "85%" }}
+                      role="progressbar"
+                      aria-valuenow="85"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                    ></div>
+                  </div>
+                </div>
+                <div className="progress">
+                  <span className="skill">
+                    OOP <i className="val">80%</i>
+                  </span>
+                  <div className="progress-bar-wrap">
+                    <div
+                      className="progress-bar"
+                      style={{ width: "80%" }}
+                      role="progressbar"
+                      aria-valuenow="80"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                    ></div>
+                  </div>
+                </div>
+                <div className="progress">
+                  <span className="skill">
+                    Python <i className="val">80%</i>
                   </span>
                   <div className="progress-bar-wrap">
                     <div
@@ -382,30 +485,14 @@ function App() {
 
                 <div className="progress">
                   <span className="skill">
-                    WordPress/CMS <i className="val">90%</i>
+                    C++ <i className="val">65%</i>
                   </span>
                   <div className="progress-bar-wrap">
                     <div
                       className="progress-bar"
-                      style={{ width: "90%" }}
+                      style={{ width: "60%" }}
                       role="progressbar"
-                      aria-valuenow="90"
-                      aria-valuemin="0"
-                      aria-valuemax="100"
-                    ></div>
-                  </div>
-                </div>
-
-                <div className="progress">
-                  <span className="skill">
-                    Photoshop <i className="val">55%</i>
-                  </span>
-                  <div className="progress-bar-wrap">
-                    <div
-                      className="progress-bar"
-                      style={{ width: "55%" }}
-                      role="progressbar"
-                      aria-valuenow="55"
+                      aria-valuenow="60"
                       aria-valuemin="0"
                       aria-valuemax="100"
                     ></div>
@@ -421,10 +508,12 @@ function App() {
             <div className="section-title">
               <h2>Resume</h2>
               <p>
-                Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-                ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-                quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-                Quia fugiat sit in iste officiis commodi quidem hic quas.
+                I possess a strong analytical mind, especially when it comes to
+                coding and I do have clear view to DSA. Challenges are not
+                obstacles but stepping stones that I am capable of overcoming. I
+                believe I can make meaningful contributions; I just need the
+                right platform to showcase my abilities. I am eager to prove my
+                potential and contribute to your team.
               </p>
             </div>
 
@@ -432,46 +521,39 @@ function App() {
               <div className="col-lg-6" data-aos="fade-up">
                 <h3 className="resume-title">Summary</h3>
                 <div className="resume-item pb-0">
-                  <h4>Alex Smith</h4>
+                  <h4>Sagar Hasan</h4>
                   <p>
                     <em>
-                      Innovative and deadline-driven Graphic Designer with 3+
-                      years of experience designing and developing user-centered
-                      digital/print marketing material from initial concept to
-                      final, polished deliverable.
+                      As a seasoned competitive programmer with a rich
+                      background of over 3 years in problem-solving, I've
+                      consistently developed strong skills in critical thinking,
+                      mathematics, and the implementation of data structures and
+                      algorithms.
                     </em>
                   </p>
                   <ul>
-                    <li>Portland par 127, Orlando, FL</li>
-                    <li>(123) 456-7891</li>
-                    <li>alice.barkley@example.com</li>
+                    <li>Dhaka, Bangladesh</li>
+                    <li>+880 194 171 7226</li>
+                    <li>sagarhasan273@gmail.com</li>
                   </ul>
                 </div>
 
                 <h3 className="resume-title">Education</h3>
                 <div className="resume-item">
-                  <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                  <h5>2015 - 2016</h5>
+                  <h4>Bachelor of Science : Computer Science &amp; Engineering</h4>
+                  <h5>2019 - 2024</h5>
                   <p>
-                    <em>Rochester Institute of Technology, Rochester, NY</em>
+                    <em>Daffodil International University</em>
                   </p>
                   <p>
-                    Qui deserunt veniam. Et sed aliquam labore tempore sed
-                    quisquam iusto autem sit. Ea vero voluptatum qui ut
-                    dignissimos deleniti nerada porti sand markend
+                    Daffodil Smart City (DSC), Dirulia, Savar, Dhaka
                   </p>
                 </div>
                 <div className="resume-item">
-                  <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                  <h5>2010 - 2014</h5>
+                  <h4>Higher Secondary Certificate</h4>
+                  <h5>2016 - 2018</h5>
                   <p>
-                    <em>Rochester Institute of Technology, Rochester, NY</em>
-                  </p>
-                  <p>
-                    Quia nobis sequi est occaecati aut. Repudiandae et iusto
-                    quae reiciendis et quis Eius vel ratione eius unde vitae
-                    rerum voluptates asperiores voluptatem Earum molestiae
-                    consequatur neque etlon sader mart dila
+                    <em>Uttara High School &amp; College, Uttara, Dhaka</em>
                   </p>
                 </div>
               </div>
@@ -644,9 +726,9 @@ function App() {
           </div>
         </section>
         {/* <!-- ======= Contact Section ======= --> */}
-        <section id="contact" class="contact">
-          <div class="container">
-            <div class="section-title">
+        <section id="contact" className="contact">
+          <div className="container">
+            <div className="section-title">
               <h2>Contact</h2>
               <p>
                 Magnam dolores commodi suscipit. Necessitatibus eius consequatur
@@ -656,92 +738,91 @@ function App() {
               </p>
             </div>
 
-            <div class="row" data-aos="fade-in">
-              <div class="col-lg-5 d-flex align-items-stretch">
-                <div class="info">
-                  <div class="address">
-                    <i class="bi bi-geo-alt"></i>
+            <div className="row" data-aos="fade-in">
+              <div className="col-lg-5 d-flex align-items-stretch">
+                <div className="info">
+                  <div className="address">
+                    <i className="bi bi-geo-alt"></i>
                     <h4>Location:</h4>
                     <p>A108 Adam Street, New York, NY 535022</p>
                   </div>
 
-                  <div class="email">
-                    <i class="bi bi-envelope"></i>
+                  <div className="email">
+                    <i className="bi bi-envelope"></i>
                     <h4>Email:</h4>
                     <p>info@example.com</p>
                   </div>
 
-                  <div class="phone">
-                    <i class="bi bi-phone"></i>
+                  <div className="phone">
+                    <i className="bi bi-phone"></i>
                     <h4>Call:</h4>
                     <p>+1 5589 55488 55s</p>
                   </div>
 
                   <iframe
                     src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621"
-                    frameborder="0"
                     style={{ border: "0", width: "100%", height: "290px" }}
-                    allowfullscreen
+                    allowFullScreen
                   ></iframe>
                 </div>
               </div>
 
-              <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+              <div className="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
                 <form
-                  action="forms/contact.php"
+                  action="forms/"
                   method="post"
                   role="form"
-                  class="php-email-form"
+                  className="node-email-form"
                 >
-                  <div class="row">
-                    <div class="form-group col-md-6">
-                      <label for="name">Your Name</label>
+                  <div className="row">
+                    <div className="form-group col-md-6">
+                      <label htmlFor="name">Your Name</label>
                       <input
                         type="text"
                         name="name"
-                        class="form-control"
+                        className="form-control"
                         id="name"
                         required
                       />
                     </div>
-                    <div class="form-group col-md-6">
-                      <label for="name">Your Email</label>
+                    <div className="form-group col-md-6">
+                      <label htmlFor="name">Your Email</label>
                       <input
                         type="email"
-                        class="form-control"
+                        className="form-control"
                         name="email"
                         id="email"
                         required
                       />
                     </div>
                   </div>
-                  <div class="form-group">
-                    <label for="name">Subject</label>
+                  <div className="form-group">
+                    <label htmlFor="name">Subject</label>
                     <input
                       type="text"
-                      class="form-control"
+                      className="form-control"
                       name="subject"
                       id="subject"
                       required
                     />
                   </div>
-                  <div class="form-group">
-                    <label for="name">Message</label>
+                  <div className="form-group">
+                    <label htmlFor="name">Message</label>
                     <textarea
-                      class="form-control"
+                      className="form-control"
                       name="message"
                       rows="10"
                       required
                     ></textarea>
                   </div>
-                  <div class="my-3">
-                    <div class="loading">Loading</div>
-                    <div class="error-message"></div>
-                    <div class="sent-message">
+                  <div className="my-3">
+                    <div className="loading">Loading</div>
+                    <div className="error-message"></div>
+                    <div className="sent-message">
                       Your message has been sent. Thank you!
                     </div>
                   </div>
-                  <div class="text-center">
+                  <div className="text-center">
                     <button type="submit">Send Message</button>
                   </div>
                 </form>
