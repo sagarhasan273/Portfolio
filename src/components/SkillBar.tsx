@@ -10,6 +10,7 @@ export const SkillBar = ({ name, percentage }: SkillBarProps) => {
   const barRef = useRef<HTMLDivElement>(null);
   
   useEffect(() => {
+    const currentBar = barRef.current;
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
@@ -22,13 +23,13 @@ export const SkillBar = ({ name, percentage }: SkillBarProps) => {
       { threshold: 0.1 }
     );
     
-    if (barRef.current) {
-      observer.observe(barRef.current);
+    if (currentBar) {
+      observer.observe(currentBar);
     }
     
     return () => {
-      if (barRef.current) {
-        observer.unobserve(barRef.current);
+      if (currentBar) {
+        observer.unobserve(currentBar);
       }
     };
   }, [percentage]);
