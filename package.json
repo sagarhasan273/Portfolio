@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sagarhasan273.github.io/Portfolio/",
+  "homepage": "https://sagarhasan273.github.io/portfolio/",
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
@@ -8,7 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist",
+    "predeploy": "npm run build"
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
