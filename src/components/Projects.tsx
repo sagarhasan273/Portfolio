@@ -7,7 +7,7 @@ export const Projects = () => {
   const [filteredProjects, setFilteredProjects] = useState(projectsData);
   const sectionRef = useRef<HTMLElement>(null);
   
-  const categories = ['all', 'web', 'mobile', 'ml'];
+  const categories = ['all', 'web', 'npm', 'ml'];
   
   useEffect(() => {
     const observer = new IntersectionObserver(

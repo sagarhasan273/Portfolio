@@ -35,6 +35,7 @@ export const Skills = () => {
     { name: 'React JS', percentage: 75 },
     { name: 'HTML & CSS', percentage: 80 },
     { name: 'SQL & NoSQL', percentage: 75 },
+    { name: 'AI/ML', percentage: 50 },
     // { name: 'AWS / Azure', percentage: 60 },
   ];
 
