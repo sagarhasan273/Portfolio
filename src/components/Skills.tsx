@@ -31,8 +31,8 @@ export const Skills = () => {
   const technicalSkills = [
     { name: 'DSA 1200+ LeetCode', percentage: 70 },
     { name: 'JavaScript / TypeScript', percentage: 80 },
-    { name: 'React JS', percentage: 75 },
     { name: 'Node.js', percentage: 70 },
+    { name: 'React JS', percentage: 75 },
     { name: 'HTML & CSS', percentage: 80 },
     { name: 'SQL & NoSQL', percentage: 75 },
     // { name: 'AWS / Azure', percentage: 60 },
@@ -40,6 +40,7 @@ export const Skills = () => {
 
   const otherSkills = [
     { name: 'JavaScript', icon: 'JavaScriptIcon' },
+    { name: 'Python', icon: 'PythonIcon' },
     { name: 'Node.js', icon: 'NodeIcon' },
     { name: 'React', icon: 'ReactIcon' },
     { name: 'AI/ML', icon: 'MlIcon' },

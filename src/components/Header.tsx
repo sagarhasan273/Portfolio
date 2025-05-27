@@ -55,6 +55,7 @@ export const Header = ({ activeSection }: HeaderProps) => {
             src={leetcodePhoto}
             alt="Logo"
             className="inline-block w-12 h-12 mr-2"
+            style={{ background: 'white' }}
           />
           <span className="text-teal-600 dark:text-teal-400">Sagar</span>HASAN
         </div>

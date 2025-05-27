@@ -44,7 +44,7 @@ export const Hero = () => {
           ref={titleRef}
           className="text-4xl md:text-6xl font-bold mb-6 leading-tight"
         >
-          Software Engineer with a Passion for Scalable Systems
+          Full Stack Software Developer with a Passion for Scalable Systems
         </h1>
         
         <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 mb-10 max-w-2xl mx-auto">
